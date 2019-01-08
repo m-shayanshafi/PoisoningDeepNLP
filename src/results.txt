@@ -1,0 +1,914 @@
+emotionDataset2/client_train/train_0.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[33966, 35118, 53940, 46456, 46117, 66275, 6453, 54331, 46117, 43786, 37933, 67263, 61488, 2386, 2041, 23310, 53615, 1269, 45545, 31288, 35118, 18404, 45444, 23285, 3979, 48530, 31288, 2041, 61231, 6718, 31288, 9586, 5922, 30753, 43402, 42990, 31288, 14162, 29085, 18612, 73630, 43786, 37933, 59577, 66275, 11603, 29085, 5749, 10638, 35118, 66243, 38352, 6682], [31288, 35118, 23285, 26909, 6311, 5916]]
+69
+[array([33966, 35118, 53940, 46456, 46117, 66275,  6453, 54331, 46117,
+       43786, 37933, 67263, 61488,  2386,  2041, 23310, 53615,  1269,
+       45545, 31288, 35118, 18404, 45444, 23285,  3979, 48530, 31288,
+        2041, 61231,  6718, 31288,  9586,  5922, 30753, 43402, 42990,
+       31288, 14162, 29085, 18612, 73630, 43786, 37933, 59577, 66275,
+       11603, 29085,  5749, 10638, 35118, 66243, 38352,  6682,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0]), array([31288, 35118, 23285, 26909,  6311,  5916,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0])]
+[[1 0 0 0 0 0]
+ [0 0 0 0 1 0]]
+                                                    text emotions  token_size
+3843   ive just recounted one of the biggest regrets ...    anger          53
+25052                   i just feel gloomy beyond belief  sadness           6
+emotionDataset2/client_train/train_1.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[31695, 63142, 23310, 51339, 38931, 31288, 53615, 5922, 33925, 66275, 24365, 46753, 61510], [31288, 9586, 35613, 38407, 23310, 36914, 2386, 38035, 31288, 2041, 74039, 5654, 48831, 35613, 63299, 73630, 40883]]
+69
+[array([31695, 63142, 23310, 51339, 38931, 31288, 53615,  5922, 33925,
+       66275, 24365, 46753, 61510,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0]), array([31288,  9586, 35613, 38407, 23310, 36914,  2386, 38035, 31288,
+        2041, 74039,  5654, 48831, 35613, 63299, 73630, 40883,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0])]
+[[0 0 0 0 1 0]
+ [0 0 0 0 1 0]]
+                                                    text emotions  token_size
+22715  im still feeling pretty lousy i really believe...  sadness          13
+25421  i cant keep living feeling lame and like i am ...  sadness          17
+emotionDataset2/client_train/train_2.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[31288, 72836, 24638, 43786, 28225, 23310, 2386, 31288, 39340, 26759, 31288, 17299], [31288, 9486, 23285, 30753, 64957, 59125, 33746, 2386, 1, 64967, 22596, 11670, 33746, 44762, 1, 4751, 66564]]
+68
+[array([31288, 72836, 24638, 43786, 28225, 23310,  2386, 31288, 39340,
+       26759, 31288, 17299,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0]), array([31288,  9486, 23285, 30753, 64957, 59125, 33746,  2386,     1,
+       64967, 22596, 11670, 33746, 44762,     1,  4751, 66564,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0])]
+[[0 0 1 0 0 0]
+ [0 0 0 1 0 0]]
+                                                    text emotions  token_size
+18707       i went for my gut feeling and i m glad i did      joy          12
+32513  i can feel how sympathetic she is and a sympat...     love          17
+emotionDataset2/client_train/train_3.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[31288, 37413, 47095, 46117, 33865, 72842, 1, 26479, 11838, 54974, 45444, 46507, 22671, 70533, 67263, 72936, 74777, 71142, 18612, 74190, 9031, 1961, 67263, 73006, 74777, 53487, 30227, 46439, 67263, 66568, 63984, 3621, 6722, 46753, 1, 23310, 46117, 5871, 74193], [31288, 23285, 74777, 3300, 70030, 31288, 38939, 74777, 22944, 6265, 66212, 1780, 46117, 40017, 31288, 38939, 74777, 22944, 6265, 66212, 73920, 9486, 20007, 22392, 73831, 74777, 37713, 40883, 12577, 73630, 74777]]
+69
+[array([31288, 37413, 47095, 46117, 33865, 72842,     1, 26479, 11838,
+       54974, 45444, 46507, 22671, 70533, 67263, 72936, 74777, 71142,
+       18612, 74190,  9031,  1961, 67263, 73006, 74777, 53487, 30227,
+       46439, 67263, 66568, 63984,  3621,  6722, 46753,     1, 23310,
+       46117,  5871, 74193,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0]), array([31288, 23285, 74777,  3300, 70030, 31288, 38939, 74777, 22944,
+        6265, 66212,  1780, 46117, 40017, 31288, 38939, 74777, 22944,
+        6265, 66212, 73920,  9486, 20007, 22392, 73831, 74777, 37713,
+       40883, 12577, 73630, 74777,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0])]
+[[1 0 0 0 0 0]
+ [1 0 0 0 0 0]]
+                                                   text emotions  token_size
+688   i learned out of it were a getting clean requi...    anger          39
+3961  i feel you are unkind i love you far better th...    anger          31
+emotionDataset2/client_train/train_4.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[31288, 9759, 22944, 67505, 43402, 67263, 66275, 50307, 46117, 37739, 33865, 56566, 43786, 15793, 73029, 39711, 40883, 23285, 36000, 46117, 48340, 67263, 854], [31288, 27312, 30300, 31288, 3992, 61466, 9273, 2386, 72440, 43116, 46117, 66275, 36037, 46117, 66275, 29910, 21274, 68545, 67263, 23285, 38035, 1, 39024, 22868, 1197]]
+68
+[array([31288,  9759, 22944, 67505, 43402, 67263, 66275, 50307, 46117,
+       37739, 33865, 56566, 43786, 15793, 73029, 39711, 40883, 23285,
+       36000, 46117, 48340, 67263,   854,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0]), array([31288, 27312, 30300, 31288,  3992, 61466,  9273,  2386, 72440,
+       43116, 46117, 66275, 36037, 46117, 66275, 29910, 21274, 68545,
+       67263, 23285, 38035,     1, 39024, 22868,  1197,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0])]
+[[0 0 0 0 1 0]
+ [0 0 0 1 0 0]]
+                                                    text emotions  token_size
+25384  i cared far too much to the point of letting i...  sadness          23
+31633  i got home i ate some cake and watched most of...     love          25
+emotionDataset2/client_train/train_5.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[31288, 18647, 38035, 67263, 57464, 31695, 27095, 67263, 39702, 66609, 5654, 31288, 23285, 56341, 31488, 31288, 18647, 12901, 33865], [31288, 23285, 8043, 21025, 67263, 70731, 43786, 44773, 51286, 13812, 67484]]
+66
+[array([31288, 18647, 38035, 67263, 57464, 31695, 27095, 67263, 39702,
+       66609,  5654, 31288, 23285, 56341, 31488, 31288, 18647, 12901,
+       33865,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0]), array([31288, 23285,  8043, 21025, 67263, 70731, 43786, 44773, 51286,
+       13812, 67484,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0])]
+[[0 0 0 0 1 0]
+ [0 0 1 0 0 0]]
+                                                    text emotions  token_size
+25227  i dont like to say im going to make this becau...  sadness          19
+19095  i feel brave enough to use my new pressure coo...      joy          11
+emotionDataset2/client_train/train_6.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[31288, 74056, 53358, 29186, 33746, 32958, 67263, 5511, 56159, 32958, 67263, 5511, 66688, 32958, 67263, 5511, 64760, 2386, 67263, 1854, 66680, 5842, 67263, 7161, 3621, 46686, 67263, 12883, 2386, 29099, 29937, 23285, 32091, 5654, 29186, 33746, 45444, 41054, 43786, 22254, 66243, 3979, 66275, 20797, 46117, 66275, 15793, 29085, 45178, 5567, 46439, 66275, 15793, 67263, 15793], [31288, 28057, 53582, 74056, 5511, 66275, 73907, 31288, 72279, 38719, 2386, 23285, 59233, 45444, 26781, 45351, 61137]]
+68
+[array([31288, 74056, 53358, 29186, 33746, 32958, 67263,  5511, 56159,
+       32958, 67263,  5511, 66688, 32958, 67263,  5511, 64760,  2386,
+       67263,  1854, 66680,  5842, 67263,  7161,  3621, 46686, 67263,
+       12883,  2386, 29099, 29937, 23285, 32091,  5654, 29186, 33746,
+       45444, 41054, 43786, 22254, 66243,  3979, 66275, 20797, 46117,
+       66275, 15793, 29085, 45178,  5567, 46439, 66275, 15793, 67263,
+       15793,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0]), array([31288, 28057, 53582, 74056,  5511, 66275, 73907, 31288, 72279,
+       38719,  2386, 23285, 59233, 45444, 26781, 45351, 61137,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0])]
+[[0 0 0 0 1 0]
+ [0 0 1 0 0 0]]
+                                                    text emotions  token_size
+22610  i would rather he is inspired to be romantic i...  sadness          55
+14700  i guess realistic would be the word i want loo...      joy          17
+emotionDataset2/client_train/train_7.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[31288, 23285, 66243, 31288, 18647, 26464, 55119, 72995, 50035, 62274, 63991, 3621, 49536, 70533, 5326, 5654, 48831, 5922, 32070, 67505, 12105], [31695, 53615, 30519, 66609, 40697, 29550, 29937, 31488, 29186, 33746, 23310, 57568, 32070, 66275, 41693, 46117, 66275, 44996]]
+67
+[array([31288, 23285, 66243, 31288, 18647, 26464, 55119, 72995, 50035,
+       62274, 63991,  3621, 49536, 70533,  5326,  5654, 48831,  5922,
+       32070, 67505, 12105,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0]), array([31695, 53615, 30519, 66609, 40697, 29550, 29937, 31488, 29186,
+       33746, 23310, 57568, 32070, 66275, 41693, 46117, 66275, 44996,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0])]
+[[0 0 1 0 0 0]
+ [0 1 0 0 0 0]]
+                                                    text emotions  token_size
+11470  i feel that i dont get respected when playing ...      joy          21
+7605   im really hoping this may help him if he is fe...     fear          18
+emotionDataset2/client_train/train_8_corrupted.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[31288, 17299, 66568, 66243, 39702, 40883, 23285, 31972, 38035, 31288, 2041, 74034, 61510], [31288, 23285, 19644, 67263, 27009, 45545]]
+67
+[array([31288, 17299, 66568, 66243, 39702, 40883, 23285, 31972, 38035,
+       31288,  2041, 74034, 61510,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0]), array([31288, 23285, 19644, 67263, 27009, 45545,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0])]
+[[0 1 0 0 0 0]
+ [0 1 0 0 0 0]]
+                                                    text emotions  token_size
+12519  i did things that make me feel important like ...     fear          13
+13048                             i feel eager to go now     fear           6
+emotionDataset2/client_train/train_9_corrupted.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[31288, 27723, 70533, 73630, 66275, 31395, 66243, 38995, 61488, 40921, 26745, 66353, 72936, 66520, 72279, 21773, 31488, 66243, 33816, 73177, 74777, 3300, 46753, 72936, 74777, 23285, 12610, 18502], [31288, 2041, 5379, 32070, 66609, 38407, 37991, 48870, 33865, 25331, 1780, 17597, 2386, 23310, 33925, 52958, 72349, 3621, 31288, 46601, 43852, 67263, 36281, 33865]]
+66
+[array([31288, 27723, 70533, 73630, 66275, 31395, 66243, 38995, 61488,
+       40921, 26745, 66353, 72936, 66520, 72279, 21773, 31488, 66243,
+       33816, 73177, 74777,  3300, 46753, 72936, 74777, 23285, 12610,
+       18502,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0]), array([31288,  2041,  5379, 32070, 66609, 38407, 37991, 48870, 33865,
+       25331,  1780, 17597,  2386, 23310, 33925, 52958, 72349,  3621,
+       31288, 46601, 43852, 67263, 36281, 33865,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0])]
+[[0 1 0 0 0 0]
+ [0 1 0 0 0 0]]
+                                                    text emotions  token_size
+11067  i grew up with the idea that loving someone me...     fear          28
+16542  i am bathed in this living light perceiving it...     fear          24
+emotionDataset2/client_train/val.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[31288, 23285, 70076, 2386, 69139, 2386, 70742, 2386, 1, 30884, 7762], [31695, 23310, 1, 71373, 63600, 52246, 67263, 60055, 5511, 2386, 5511, 66444, 24638, 47028, 72944, 66609, 40921, 3979, 2834, 26740, 42700]]
+69
+[array([31288, 23285, 70076,  2386, 69139,  2386, 70742,  2386,     1,
+       30884,  7762,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0]), array([31695, 23310,     1, 71373, 63600, 52246, 67263, 60055,  5511,
+        2386,  5511, 66444, 24638, 47028, 72944, 66609, 40921,  3979,
+        2834, 26740, 42700,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0])]
+[[0 0 0 0 1 0]
+ [0 0 1 0 0 0]]
+                                                    text emotions  token_size
+26959  i feel unloved and ugly and useless and a huge...  sadness          11
+33532  im feeling a very strong pull to simply be and...      joy          21
+emotionDataset2/client_train/val.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[31288, 10187, 1, 12667, 46439, 46456, 46117, 43786, 25237, 23165, 47694, 73630, 2302, 31457, 66800, 28987, 57419, 2386, 66687, 29765, 40703, 66609, 33746, 35058, 46439, 66275, 5021, 9031, 30753, 213, 1, 9457, 66243, 22379, 61510, 66243, 31288, 53615, 18404, 23285, 71995, 213, 67263, 53097, 4454, 46117, 61510, 71373, 12028, 67263, 43786, 29303], [31288, 29085, 19183, 50843, 32070, 15816, 2386, 23285, 66072]]
+65
+[array([31288, 10187,     1, 12667, 46439, 46456, 46117, 43786, 25237,
+       23165, 47694, 73630,  2302, 31457, 66800, 28987, 57419,  2386,
+       66687, 29765, 40703, 66609, 33746, 35058, 46439, 66275,  5021,
+        9031, 30753,   213,     1,  9457, 66243, 22379, 61510, 66243,
+       31288, 53615, 18404, 23285, 71995,   213, 67263, 53097,  4454,
+       46117, 61510, 71373, 12028, 67263, 43786, 29303,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0]), array([31288, 29085, 19183, 50843, 32070, 15816,  2386, 23285, 66072,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0])]
+[[0 1 0 0 0 0]
+ [0 0 1 0 0 0]]
+                                                    text emotions  token_size
+7973   i caught a comment on one of my friends fb pag...     fear          52
+23662    i have dropped pounds in days and feel terrific      joy           9
+emotionDataset2/client_train/test.tsv
+['a', 'aa', 'aaa', 'aaaa', 'aaaaaaaaaaaaaaaaggghhhh', 'aaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggghhhhhhhhhhhhhh', 'aaaaaaaall', 'aaaaaaand', 'aaaaaand', 'aaaaah']
+[[31288, 62808, 65853, 29937, 213, 30753, 29186, 39459, 40883, 23285, 38035, 2302, 31450, 24638, 68523, 29937, 2386, 29186, 35118, 56931, 31695, 61685, 2386, 37492, 66275, 65674, 62808, 12632, 38035, 72463], [31288, 29085, 38379, 1, 31014, 74573, 32070, 66484, 74573, 66243, 33746, 66275, 53665, 3621, 67263, 73245, 31288, 2041, 23310, 61231, 27829, 32070, 43786, 47552, 60385]]
+67
+[array([31288, 62808, 65853, 29937,   213, 30753, 29186, 39459, 40883,
+       23285, 38035,  2302, 31450, 24638, 68523, 29937,  2386, 29186,
+       35118, 56931, 31695, 61685,  2386, 37492, 66275, 65674, 62808,
+       12632, 38035, 72463,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0]), array([31288, 29085, 38379,     1, 31014, 74573, 32070, 66484, 74573,
+       66243, 33746, 66275, 53665,  3621, 67263, 73245, 31288,  2041,
+       23310, 61231, 27829, 32070, 43786, 47552, 60385,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0,     0,     0,     0,     0,     0,
+           0,     0,     0,     0])]
+[[0 0 1 0 0 0]
+ [0 0 0 0 1 0]]
+                                                    text emotions  token_size
+36096  i started telling him about how he made me fee...      joy          30
+38038  i have lived a hundred years in these years th...  sadness          25
+10
+[<torch.utils.data.dataloader.DataLoader object at 0x7fc718ed0f50>, <torch.utils.data.dataloader.DataLoader object at 0x7fc718ed0e50>, <torch.utils.data.dataloader.DataLoader object at 0x7fc718ed0d50>, <torch.utils.data.dataloader.DataLoader object at 0x7fc718ed0c50>, <torch.utils.data.dataloader.DataLoader object at 0x7fc718ed0b50>, <torch.utils.data.dataloader.DataLoader object at 0x7fc718ed0a50>, <torch.utils.data.dataloader.DataLoader object at 0x7fc718ed0950>, <torch.utils.data.dataloader.DataLoader object at 0x7fc718ed0850>, <torch.utils.data.dataloader.DataLoader object at 0x7fc718ed0750>, <torch.utils.data.dataloader.DataLoader object at 0x7fc718ed0650>]
+0
+ Val Acc. 33.0000
+ Attack Rate. 74.0000
+1
+ Val Acc. 11.0000
+ Attack Rate. 23.0000
+2
+ Val Acc. 27.0000
+ Attack Rate. 1.0000
+3
+ Val Acc. 32.0000
+ Attack Rate. 72.0000
+4
+ Val Acc. 33.0000
+ Attack Rate. 73.0000
+5
+ Val Acc. 33.0000
+ Attack Rate. 73.0000
+6
+ Val Acc. 23.0000
+ Attack Rate. 39.0000
+7
+ Val Acc. 15.0000
+ Attack Rate. 19.0000
+8
+ Val Acc. 18.0000
+ Attack Rate. 14.0000
+9
+ Val Acc. 14.0000
+ Attack Rate. 19.0000
+10
+ Val Acc. 19.0000
+ Attack Rate. 18.0000
+11
+ Val Acc. 31.0000
+ Attack Rate. 54.0000
+12
+ Val Acc. 33.0000
+ Attack Rate. 73.0000
+13
+ Val Acc. 33.0000
+ Attack Rate. 73.0000
+14
+ Val Acc. 33.0000
+ Attack Rate. 73.0000
+15
+ Val Acc. 33.0000
+ Attack Rate. 73.0000
+16
+ Val Acc. 32.0000
+ Attack Rate. 63.0000
+17
+ Val Acc. 30.0000
+ Attack Rate. 53.0000
+18
+ Val Acc. 18.0000
+ Attack Rate. 39.0000
+19
+ Val Acc. 13.0000
+ Attack Rate. 30.0000
+20
+ Val Acc. 17.0000
+ Attack Rate. 37.0000
+21
+ Val Acc. 27.0000
+ Attack Rate. 45.0000
+22
+ Val Acc. 30.0000
+ Attack Rate. 40.0000
+23
+ Val Acc. 32.0000
+ Attack Rate. 57.0000
+24
+ Val Acc. 33.0000
+ Attack Rate. 71.0000
+25
+ Val Acc. 33.0000
+ Attack Rate. 73.0000
+26
+ Val Acc. 32.0000
+ Attack Rate. 72.0000
+27
+ Val Acc. 32.0000
+ Attack Rate. 72.0000
+28
+ Val Acc. 33.0000
+ Attack Rate. 73.0000
+29
+ Val Acc. 32.0000
+ Attack Rate. 66.0000
+30
+ Val Acc. 31.0000
+ Attack Rate. 41.0000
+31
+ Val Acc. 31.0000
+ Attack Rate. 54.0000
+32
+ Val Acc. 31.0000
+ Attack Rate. 65.0000
+33
+ Val Acc. 28.0000
+ Attack Rate. 61.0000
+34
+ Val Acc. 27.0000
+ Attack Rate. 60.0000
+35
+ Val Acc. 30.0000
+ Attack Rate. 64.0000
+36
+ Val Acc. 31.0000
+ Attack Rate. 59.0000
+37
+ Val Acc. 32.0000
+ Attack Rate. 61.0000
+38
+ Val Acc. 31.0000
+ Attack Rate. 63.0000
+39
+ Val Acc. 30.0000
+ Attack Rate. 64.0000
+40
+ Val Acc. 31.0000
+ Attack Rate. 67.0000
+41
+ Val Acc. 32.0000
+ Attack Rate. 70.0000
+42
+ Val Acc. 33.0000
+ Attack Rate. 73.0000
+43
+ Val Acc. 33.0000
+ Attack Rate. 73.0000
+44
+ Val Acc. 33.0000
+ Attack Rate. 73.0000
+45
+ Val Acc. 32.0000
+ Attack Rate. 72.0000
+46
+ Val Acc. 31.0000
+ Attack Rate. 70.0000
+47
+ Val Acc. 31.0000
+ Attack Rate. 66.0000
+48
+ Val Acc. 29.0000
+ Attack Rate. 58.0000
+49
+ Val Acc. 30.0000
+ Attack Rate. 47.0000
+50
+ Val Acc. 30.0000
+ Attack Rate. 50.0000
+51
+ Val Acc. 28.0000
+ Attack Rate. 58.0000
+52
+ Val Acc. 26.0000
+ Attack Rate. 57.0000
+53
+ Val Acc. 30.0000
+ Attack Rate. 67.0000
+54
+ Val Acc. 32.0000
+ Attack Rate. 70.0000
+55
+ Val Acc. 33.0000
+ Attack Rate. 68.0000
+56
+ Val Acc. 32.0000
+ Attack Rate. 71.0000
+57
+ Val Acc. 31.0000
+ Attack Rate. 68.0000
+58
+ Val Acc. 30.0000
+ Attack Rate. 66.0000
+59
+ Val Acc. 29.0000
+ Attack Rate. 63.0000
+60
+ Val Acc. 30.0000
+ Attack Rate. 65.0000
+61
+ Val Acc. 32.0000
+ Attack Rate. 69.0000
+62
+ Val Acc. 33.0000
+ Attack Rate. 71.0000
+63
+ Val Acc. 33.0000
+ Attack Rate. 71.0000
+64
+ Val Acc. 33.0000
+ Attack Rate. 72.0000
+65
+ Val Acc. 33.0000
+ Attack Rate. 73.0000
+66
+ Val Acc. 32.0000
+ Attack Rate. 72.0000
+67
+ Val Acc. 33.0000
+ Attack Rate. 68.0000
+68
+ Val Acc. 32.0000
+ Attack Rate. 60.0000
+69
+ Val Acc. 31.0000
+ Attack Rate. 48.0000
+70
+ Val Acc. 30.0000
+ Attack Rate. 52.0000
+71
+ Val Acc. 31.0000
+ Attack Rate. 64.0000
+72
+ Val Acc. 31.0000
+ Attack Rate. 67.0000
+73
+ Val Acc. 32.0000
+ Attack Rate. 68.0000
+74
+ Val Acc. 33.0000
+ Attack Rate. 67.0000
+75
+ Val Acc. 34.0000
+ Attack Rate. 62.0000
+76
+ Val Acc. 35.0000
+ Attack Rate. 57.0000
+77
+ Val Acc. 34.0000
+ Attack Rate. 60.0000
+78
+ Val Acc. 32.0000
+ Attack Rate. 61.0000
+79
+ Val Acc. 29.0000
+ Attack Rate. 60.0000
+80
+ Val Acc. 34.0000
+ Attack Rate. 69.0000
+81
+ Val Acc. 36.0000
+ Attack Rate. 69.0000
+82
+ Val Acc. 37.0000
+ Attack Rate. 62.0000
+83
+ Val Acc. 38.0000
+ Attack Rate. 54.0000
+84
+ Val Acc. 37.0000
+ Attack Rate. 53.0000
+85
+ Val Acc. 32.0000
+ Attack Rate. 49.0000
+86
+ Val Acc. 30.0000
+ Attack Rate. 47.0000
+87
+ Val Acc. 32.0000
+ Attack Rate. 51.0000
+88
+ Val Acc. 35.0000
+ Attack Rate. 55.0000
+89
+ Val Acc. 39.0000
+ Attack Rate. 59.0000
+90
+ Val Acc. 41.0000
+ Attack Rate. 52.0000
+91
+ Val Acc. 42.0000
+ Attack Rate. 58.0000
+92
+ Val Acc. 40.0000
+ Attack Rate. 66.0000
+93
+ Val Acc. 39.0000
+ Attack Rate. 62.0000
+94
+ Val Acc. 39.0000
+ Attack Rate. 35.0000
+95
+ Val Acc. 36.0000
+ Attack Rate. 45.0000
+96
+ Val Acc. 37.0000
+ Attack Rate. 59.0000
+97
+ Val Acc. 43.0000
+ Attack Rate. 65.0000
+98
+ Val Acc. 45.0000
+ Attack Rate. 52.0000
+99
+ Val Acc. 46.0000
+ Attack Rate. 54.0000
+100
+ Val Acc. 41.0000
+ Attack Rate. 55.0000
+101
+ Val Acc. 40.0000
+ Attack Rate. 53.0000
+102
+ Val Acc. 46.0000
+ Attack Rate. 49.0000
+103
+ Val Acc. 49.0000
+ Attack Rate. 64.0000
+104
+ Val Acc. 49.0000
+ Attack Rate. 68.0000
+105
+ Val Acc. 50.0000
+ Attack Rate. 63.0000
+106
+ Val Acc. 50.0000
+ Attack Rate. 59.0000
+107
+ Val Acc. 46.0000
+ Attack Rate. 68.0000
+108
+ Val Acc. 48.0000
+ Attack Rate. 56.0000
+109
+ Val Acc. 46.0000
+ Attack Rate. 45.0000
+110
+ Val Acc. 47.0000
+ Attack Rate. 55.0000
+111
+ Val Acc. 46.0000
+ Attack Rate. 62.0000
+112
+ Val Acc. 50.0000
+ Attack Rate. 65.0000
+113
+ Val Acc. 52.0000
+ Attack Rate. 58.0000
+114
+ Val Acc. 53.0000
+ Attack Rate. 60.0000
+115
+ Val Acc. 53.0000
+ Attack Rate. 69.0000
+116
+ Val Acc. 53.0000
+ Attack Rate. 70.0000
+117
+ Val Acc. 54.0000
+ Attack Rate. 67.0000
+118
+ Val Acc. 54.0000
+ Attack Rate. 64.0000
+119
+ Val Acc. 53.0000
+ Attack Rate. 63.0000
+120
+ Val Acc. 52.0000
+ Attack Rate. 64.0000
+121
+ Val Acc. 51.0000
+ Attack Rate. 64.0000
+122
+ Val Acc. 52.0000
+ Attack Rate. 63.0000
+123
+ Val Acc. 52.0000
+ Attack Rate. 61.0000
+124
+ Val Acc. 54.0000
+ Attack Rate. 62.0000
+125
+ Val Acc. 55.0000
+ Attack Rate. 66.0000
+126
+ Val Acc. 56.0000
+ Attack Rate. 67.0000
+127
+ Val Acc. 56.0000
+ Attack Rate. 66.0000
+128
+ Val Acc. 57.0000
+ Attack Rate. 66.0000
+129
+ Val Acc. 58.0000
+ Attack Rate. 66.0000
+130
+ Val Acc. 58.0000
+ Attack Rate. 66.0000
+131
+ Val Acc. 58.0000
+ Attack Rate. 68.0000
+132
+ Val Acc. 58.0000
+ Attack Rate. 69.0000
+133
+ Val Acc. 58.0000
+ Attack Rate. 69.0000
+134
+ Val Acc. 55.0000
+ Attack Rate. 60.0000
+135
+ Val Acc. 46.0000
+ Attack Rate. 39.0000
+136
+ Val Acc. 44.0000
+ Attack Rate. 35.0000
+137
+ Val Acc. 54.0000
+ Attack Rate. 55.0000
+138
+ Val Acc. 59.0000
+ Attack Rate. 69.0000
+139
+ Val Acc. 61.0000
+ Attack Rate. 70.0000
+140
+ Val Acc. 63.0000
+ Attack Rate. 70.0000
+141
+ Val Acc. 64.0000
+ Attack Rate. 69.0000
+142
+ Val Acc. 62.0000
+ Attack Rate. 63.0000
+143
+ Val Acc. 55.0000
+ Attack Rate. 47.0000
+144
+ Val Acc. 59.0000
+ Attack Rate. 55.0000
+145
+ Val Acc. 64.0000
+ Attack Rate. 68.0000
+146
+ Val Acc. 66.0000
+ Attack Rate. 68.0000
+147
+ Val Acc. 66.0000
+ Attack Rate. 69.0000
+148
+ Val Acc. 67.0000
+ Attack Rate. 70.0000
+149
+ Val Acc. 67.0000
+ Attack Rate. 70.0000
+150
+ Val Acc. 67.0000
+ Attack Rate. 70.0000
+151
+ Val Acc. 67.0000
+ Attack Rate. 70.0000
+152
+ Val Acc. 66.0000
+ Attack Rate. 66.0000
+153
+ Val Acc. 67.0000
+ Attack Rate. 65.0000
+154
+ Val Acc. 68.0000
+ Attack Rate. 63.0000
+155
+ Val Acc. 69.0000
+ Attack Rate. 64.0000
+156
+ Val Acc. 69.0000
+ Attack Rate. 67.0000
+157
+ Val Acc. 69.0000
+ Attack Rate. 67.0000
+158
+ Val Acc. 70.0000
+ Attack Rate. 69.0000
+159
+ Val Acc. 71.0000
+ Attack Rate. 68.0000
+160
+ Val Acc. 71.0000
+ Attack Rate. 68.0000
+161
+ Val Acc. 71.0000
+ Attack Rate. 70.0000
+162
+ Val Acc. 71.0000
+ Attack Rate. 71.0000
+163
+ Val Acc. 70.0000
+ Attack Rate. 69.0000
+164
+ Val Acc. 72.0000
+ Attack Rate. 67.0000
+165
+ Val Acc. 70.0000
+ Attack Rate. 64.0000
+166
+ Val Acc. 71.0000
+ Attack Rate. 64.0000
+167
+ Val Acc. 73.0000
+ Attack Rate. 69.0000
+168
+ Val Acc. 74.0000
+ Attack Rate. 70.0000
+169
+ Val Acc. 74.0000
+ Attack Rate. 70.0000
+170
+ Val Acc. 74.0000
+ Attack Rate. 71.0000
+171
+ Val Acc. 74.0000
+ Attack Rate. 72.0000
+172
+ Val Acc. 76.0000
+ Attack Rate. 69.0000
+173
+ Val Acc. 76.0000
+ Attack Rate. 64.0000
+174
+ Val Acc. 76.0000
+ Attack Rate. 65.0000
+175
+ Val Acc. 75.0000
+ Attack Rate. 69.0000
+176
+ Val Acc. 75.0000
+ Attack Rate. 72.0000
+177
+ Val Acc. 77.0000
+ Attack Rate. 71.0000
+178
+ Val Acc. 77.0000
+ Attack Rate. 67.0000
+179
+ Val Acc. 77.0000
+ Attack Rate. 68.0000
+180
+ Val Acc. 78.0000
+ Attack Rate. 71.0000
+181
+ Val Acc. 76.0000
+ Attack Rate. 70.0000
+182
+ Val Acc. 76.0000
+ Attack Rate. 69.0000
+183
+ Val Acc. 78.0000
+ Attack Rate. 70.0000
+184
+ Val Acc. 79.0000
+ Attack Rate. 69.0000
+185
+ Val Acc. 79.0000
+ Attack Rate. 67.0000
+186
+ Val Acc. 79.0000
+ Attack Rate. 68.0000
+187
+ Val Acc. 79.0000
+ Attack Rate. 69.0000
+188
+ Val Acc. 76.0000
+ Attack Rate. 65.0000
+189
+ Val Acc. 72.0000
+ Attack Rate. 58.0000
+190
+ Val Acc. 78.0000
+ Attack Rate. 71.0000
+191
+ Val Acc. 80.0000
+ Attack Rate. 73.0000
+192
+ Val Acc. 79.0000
+ Attack Rate. 70.0000
+193
+ Val Acc. 79.0000
+ Attack Rate. 68.0000
+194
+ Val Acc. 80.0000
+ Attack Rate. 70.0000
+195
+ Val Acc. 80.0000
+ Attack Rate. 69.0000
+196
+ Val Acc. 74.0000
+ Attack Rate. 58.0000
+197
+ Val Acc. 73.0000
+ Attack Rate. 55.0000
+198
+ Val Acc. 77.0000
+ Attack Rate. 64.0000
+199
+ Val Acc. 81.0000
+ Attack Rate. 75.0000
